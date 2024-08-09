@@ -24,6 +24,7 @@ public class ADemo {
 
 		// another way
 		System.out.println("commit by master before local");
+		System.out.println("commit by master before local-1");
 		System.out.println("process done");
 
 	}
