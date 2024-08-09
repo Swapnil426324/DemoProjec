@@ -6,6 +6,8 @@ public class ADemo {
 		System.out.println("hii users");
                
 		System.out.println("new changes added in master");
+//		how to get conflict by master? 
+	        System.out.println("changesh in my master");
 	       
 	}
 
